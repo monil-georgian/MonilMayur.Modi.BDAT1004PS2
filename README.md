@@ -5,4 +5,7 @@ Student No: 200460907 <br>
 IPython Notebook for Problem Set 2 
 <br>
 <br>
+Question 4 in Docx file
+<br>
+<br>
 Extras: Supporting html and py file
